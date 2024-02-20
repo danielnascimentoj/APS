@@ -1,0 +1,35 @@
+Atividade 01
+
+CONSULTÓRIO VETERINÁRIO
+
+Ator 01: Veterinário
+
+1.Eu, como veterinário, gostaria de manter um registro detalhado das vacinas administradas em cada animal.
+2.Eu, como veterinário, gostaria de poder agendar consultas e lembretes de compromissos para os clientes e seus animais de estimação.
+3.Eu, como veterinário, gostaria de gerenciar o estoque de medicamentos e suprimentos da clínica veterinária.
+4.Eu, como veterinário, gostaria de ter a capacidade de gerar relatórios e estatísticas sobre os pacientes atendidos e os serviços prestados.
+5.Eu, como veterinário, gostaria de oferecer serviços de telemedicina para fornecer orientações e diagnósticos preliminares remotamente.
+
+Ator 03: Cliente
+
+1.Como cliente, gostaria de poder agendar consultas para meu animal de estimação de forma rápida e conveniente, preferencialmente através de um aplicativo móvel ou website.
+2.Como cliente, gostaria de receber lembretes automáticos sobre consultas agendadas, vacinações pendentes e outros compromissos importantes relacionados à saúde do meu animal de estimação.
+3.Como cliente, gostaria de poder visualizar o histórico médico do meu animal de estimação.
+4.Como cliente, gostaria de poder entrar em contato facilmente com a clínica veterinária.
+5.Como cliente, gostaria de ter a opção de pagar por serviços veterinários de forma segura e conveniente, seja através de cartão de crédito, transferência bancária ou outros métodos de pagamento eletrônico.
+
+______________________________________________________________________________
+
+ACADEMIA JAVASCRIPT
+
+Ator 01: Cliente
+
+1. Gostaria de realizar o meu cadastro
+2. Gostaria de receber dicas de treino e alimentação
+3. Gostaria de realizar os pagamentos mensais através do aplicativo
+
+Ator 02: Personal
+
+1. Gostaria de ter acesso as informações dos clientes (nome, idade, peso, altura, etc)
+
+
