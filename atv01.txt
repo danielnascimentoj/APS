@@ -29,7 +29,6 @@ Ator 01: Cliente
 3. Gostaria de realizar os pagamentos mensais através do aplicativo
 
 Ator 02: Personal
-
 1. Gostaria de ter acesso as informações dos clientes (nome, idade, peso, altura, etc)
 
 
